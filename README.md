@@ -1,2 +1,2 @@
 # Dissemination
-Compagnon papers for scientific events (conferences, workshops, etc.) 
+Compagnon papers/experimental results for scientific events (conferences, workshops, etc.) 
